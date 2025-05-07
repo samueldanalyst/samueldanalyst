@@ -52,12 +52,9 @@ An admin tool for tracking team tasks, progress, and deadlines.
 
 🛠 Tech: Django, PostgreSQL, Bootstrap
 
-🔗 View on GitHub
+---
+---
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/> </p>
----
----
 📫 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/samuelokonvictor/
 
