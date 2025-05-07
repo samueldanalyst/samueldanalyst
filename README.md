@@ -56,10 +56,12 @@ An admin tool for tracking team tasks, progress, and deadlines.
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/> </p>
+---
+---
 📫 Connect With Me
-💼 LinkedIn: linkedin.com/in/yourlinkedin
+💼 LinkedIn: https://www.linkedin.com/in/samuelokonvictor/
 
 🌐 Portfolio: yourportfolio.com
 
-📧 Email: youremail@example.com
+📧 Email: samuelvictor747futa@gmail.com
 ---
