@@ -1,4 +1,4 @@
-<!-- GitHub Profile README -->
+
 
 <h1 align="center">Hi, I'm Samuel Okon 👋</h1>
 
@@ -20,8 +20,8 @@
 
 ### 🛠️ Tech Stack
 
-```html
-<!-- Edit and reorder tools as needed -->
+---
+
 Languages: Python, JavaScript, SQL, Bash
 
 Frameworks: Flask, Django, Node.js
@@ -33,6 +33,8 @@ DevOps/Tools: Git, Docker, GitHub Actions, Postman
 Cloud: AWS (EC2, S3), Heroku, Nginx
 
 Testing: PyTest, Postman, Unit Tests
+
+---
 
 💼 Featured Projects
 🔹 Roommate Match (In Progress)
@@ -61,3 +63,4 @@ An admin tool for tracking team tasks, progress, and deadlines.
 🌐 Portfolio: yourportfolio.com
 
 📧 Email: youremail@example.com
+---
